@@ -1,0 +1,801 @@
+[17-Sep-2018 08:37:18 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 08:47:00 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 08:48:22 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 08:57:11 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:02:04 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:03:51 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:07:20 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:23:58 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:25:21 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:25:56 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:27:07 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:30:10 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 09:34:10 America/Lima] PHP Fatal error:  Uncaught exception 'RainTpl_NotFoundException' with message 'No se encuentra el archivo view/portada_clientes.html' in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 10:03:01 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 10:46:05 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 17:18:57 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 17:28:00 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 19:56:18 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 20:14:23 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 20:21:34 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 20:48:00 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[17-Sep-2018 20:50:26 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[18-Sep-2018 08:43:22 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[18-Sep-2018 16:17:43 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[18-Sep-2018 17:25:31 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 08:18:01 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 10:30:03 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 52
+[19-Sep-2018 10:30:03 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 93
+[19-Sep-2018 11:17:54 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:23:12 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:24:06 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:28:03 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:32:02 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:34:06 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:40:16 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 11:54:45 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 12:00:36 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 12:02:26 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 12:03:01 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 12:15:15 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 13:39:40 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 13:42:58 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 13:48:37 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 13:52:33 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[19-Sep-2018 13:59:32 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[21-Sep-2018 00:07:09 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[21-Sep-2018 10:18:15 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[21-Sep-2018 20:07:14 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[21-Sep-2018 20:12:49 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 52
+[21-Sep-2018 20:12:49 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 93
+[21-Sep-2018 20:30:49 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[23-Sep-2018 17:34:25 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[23-Sep-2018 18:25:30 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 52
+[23-Sep-2018 18:25:30 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 93
+[26-Sep-2018 20:36:44 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[26-Sep-2018 22:28:14 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[26-Sep-2018 22:30:39 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 52
+[26-Sep-2018 22:30:39 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 93
+[26-Sep-2018 22:39:37 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 52
+[26-Sep-2018 22:39:37 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 93
+[27-Sep-2018 08:11:03 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 08:36:50 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 08:59:50 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 09:46:05 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 11:49:04 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 11:49:50 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 11:55:40 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 11:55:54 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 12:00:29 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 12:26:00 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 13:08:55 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 16:30:28 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 16:32:18 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 16:34:26 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[27-Sep-2018 16:44:18 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[28-Sep-2018 12:25:28 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[28-Sep-2018 20:14:16 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[28-Sep-2018 20:39:55 America/Lima] PHP Warning:  rename(/home/ysummaco/public_html/facturacion/plugins/gestion_documental-master(1),/home/ysummaco/public_html/facturacion/plugins/gestion_documental): No such file or directory in /home/ysummaco/public_html/facturacion/base/fs_plugin_manager.php on line 520
+[28-Sep-2018 20:41:08 America/Lima] PHP Warning:  rename(/home/ysummaco/public_html/facturacion/plugins/escaparate_catalogo-master(1),/home/ysummaco/public_html/facturacion/plugins/escaparate_catalogo): No such file or directory in /home/ysummaco/public_html/facturacion/base/fs_plugin_manager.php on line 520
+[28-Sep-2018 20:45:48 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/tcpdf/tcpdf.php on line 19506
+[28-Sep-2018 20:45:48 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/tcpdf/tcpdf.php on line 19538
+[28-Sep-2018 20:45:48 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ysummaco/public_html/facturacion/plugins/tcpdf/include/tcpdf_static.php:858) in /home/ysummaco/public_html/facturacion/base/fs_login.php on line 332
+[28-Sep-2018 20:45:48 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ysummaco/public_html/facturacion/plugins/tcpdf/include/tcpdf_static.php:858) in /home/ysummaco/public_html/facturacion/base/fs_login.php on line 333
+[28-Sep-2018 20:46:25 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[28-Sep-2018 20:48:41 America/Lima] PHP Warning:  rename(/home/ysummaco/public_html/facturacion/plugins/gestion_documental-master,/home/ysummaco/public_html/facturacion/plugins/gestion_documental): Directory not empty in /home/ysummaco/public_html/facturacion/base/fs_plugin_manager.php on line 520
+[28-Sep-2018 21:02:04 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/tcpdf/tcpdf.php on line 19506
+[28-Sep-2018 21:02:04 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/tcpdf/tcpdf.php on line 19538
+[28-Sep-2018 21:06:55 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 12:46:04 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 14:44:23 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 14:45:19 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 14:49:44 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 17:08:45 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 17:21:40 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/tcpdf/tcpdf.php on line 19506
+[29-Sep-2018 17:21:40 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/tcpdf/tcpdf.php on line 19538
+[29-Sep-2018 17:28:45 America/Lima] PHP Parse error:  syntax error, unexpected 'Electronica' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Facturacion Electronica/controller/Facturacion Electronica.php on line 12
+[29-Sep-2018 17:32:04 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 17:33:18 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[29-Sep-2018 18:02:04 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[30-Sep-2018 17:14:25 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[30-Sep-2018 17:15:12 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[01-Oct-2018 15:57:39 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[01-Oct-2018 15:58:08 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 52
+[01-Oct-2018 15:58:08 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home/ysummaco/public_html/facturacion/plugins/print_to_ticket/lib/TicketBuilder.php on line 93
+[01-Oct-2018 16:37:54 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 07:56:32 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 12:08:30 America/Lima] PHP Parse error:  syntax error, unexpected 'Electronica' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Facturacion Electronica/controller/Facturacion Electronica.php on line 12
+[02-Oct-2018 12:08:45 America/Lima] PHP Parse error:  syntax error, unexpected 'Electronica' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Facturacion Electronica/controller/Facturacion Electronica.php on line 12
+[02-Oct-2018 12:20:06 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 12:25:27 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 12:28:45 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 12:34:58 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 12:52:35 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 12:53:02 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 13:07:47 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 13:20:36 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[02-Oct-2018 13:20:40 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[03-Oct-2018 09:49:51 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[03-Oct-2018 09:49:54 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[03-Oct-2018 19:13:58 America/Lima] PHP Parse error:  syntax error, unexpected 'Electronica' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Facturacion Electronica/controller/Facturacion Electronica.php on line 12
+[03-Oct-2018 19:34:21 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[03-Oct-2018 19:39:17 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[04-Oct-2018 17:36:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method cliente::hiddenstring() in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php:264
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(152): include()
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('ventas_cliente')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php on line 264
+[04-Oct-2018 17:37:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method cliente::hiddenstring() in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php:264
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(152): include()
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('ventas_cliente')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php on line 264
+[04-Oct-2018 20:15:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method cliente::hiddenstring() in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php:264
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(152): include()
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('ventas_cliente')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php on line 264
+[04-Oct-2018 20:20:35 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[04-Oct-2018 20:42:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method cliente::hiddenstring() in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php:264
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(152): include()
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('ventas_cliente')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php on line 264
+[04-Oct-2018 20:42:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method cliente::hiddenstring() in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php:264
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(152): include()
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('ventas_cliente')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php on line 264
+[04-Oct-2018 20:55:20 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[04-Oct-2018 21:03:35 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[04-Oct-2018 21:27:39 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[04-Oct-2018 21:29:28 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[04-Oct-2018 21:37:32 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[05-Oct-2018 08:05:32 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:06:21 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:06:30 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[05-Oct-2018 08:07:19 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[05-Oct-2018 08:07:37 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:20:41 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:21:02 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[05-Oct-2018 08:21:23 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:21:33 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:21:42 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:21:50 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:25:14 America/Lima] PHP Warning:  rename(/home/ysummaco/public_html/facturacion/plugins/gestion_documental-master,/home/ysummaco/public_html/facturacion/plugins/gestion_documental): Directory not empty in /home/ysummaco/public_html/facturacion/base/fs_plugin_manager.php on line 520
+[05-Oct-2018 08:25:46 America/Lima] PHP Warning:  rename(/home/ysummaco/public_html/facturacion/plugins/gestion_documental-master,/home/ysummaco/public_html/facturacion/plugins/gestion_documental): Directory not empty in /home/ysummaco/public_html/facturacion/base/fs_plugin_manager.php on line 520
+[05-Oct-2018 08:27:22 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pagos/controller/Reporte de Pagos.php on line 12
+[05-Oct-2018 08:35:04 America/Lima] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting '{' in /home/ysummaco/public_html/facturacion/plugins/Reporte de Pago/controller/Reporte de Pago.php on line 12
+[05-Oct-2018 08:35:45 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[05-Oct-2018 13:06:46 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 08:17:00 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 08:54:58 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 09:00:36 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 09:02:45 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 09:15:46 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 09:22:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method cliente::hiddenstring() in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php:264
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(152): include()
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('ventas_cliente')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/tmp/vKjg03MhQ2aJISkPC7Tu/ventas_cliente.dfe0a57ab6ae9d99af8b4ebe276ec57c.rtpl.php on line 264
+[06-Oct-2018 09:24:43 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 09:35:13 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 12:11:50 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[06-Oct-2018 20:24:54 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[07-Oct-2018 09:21:34 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[07-Oct-2018 18:51:40 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[07-Oct-2018 19:19:37 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[08-Oct-2018 10:58:19 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[08-Oct-2018 12:18:26 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
+[08-Oct-2018 14:24:17 America/Lima] PHP Fatal error:  Uncaught RainTpl_NotFoundException: No se encuentra el archivo view/portada_clientes.html in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php:241
+Stack trace:
+#0 /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php(141): RainTPL->check_template('portada_cliente...')
+#1 /home/ysummaco/public_html/facturacion/index.php(120): RainTPL->draw('portada_cliente...')
+#2 {main}
+  thrown in /home/ysummaco/public_html/facturacion/raintpl/rain.tpl.class.php on line 241
