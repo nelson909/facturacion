@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/NeoRazorX/facturascripts_2015/badges/quality-score.png?b=beta)](https://scrutinizer-ci.com/g/NeoRazorX/facturascripts_2015/?branch=beta)
 
 # FacturaScripts
@@ -14,3 +15,7 @@ https://www.facturascripts.com/feedback
 ## Colaborar
 Si desdeas colaborar puedes dirigirte a la sección en nuestra web con todas las tareas pendientes, documentación y chat para programadores:
 https://www.facturascripts.com/tareas
+=======
+# facturacion
+Nuevo facturador
+>>>>>>> ee6b94755432f9b74dac4d6302f8f5b31dec111d
