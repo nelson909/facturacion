@@ -100,10 +100,10 @@ if ($fsc->template) {
         raintpl::configure('cache_dir', 'tmp/' . FS_TMP_NAME);
     } else {
         echo '<center>'
-        . '<h1>No se puede escribir sobre la carpeta tmp de FacturaScripts</h1>'
-        . '<p>Consulta la <a target="_blank" href="//www.facturascripts.com/comm3/index.php?page=community_item&id=351">documentaci&oacute;n</a>.</p>'
+        . '<h1>No se puede escribir sobre la carpeta tmp de Ysumma</h1>'
+        . '<p>Consulta la <a target="_blank" href="//www.ysumma.com/</a>.</p>'
         . '</center>';
-        die('<center><iframe src="//www.facturascripts.com/comm3/index.php?page=community_item&id=351" width="90%" height="800"></iframe></center>');
+        die('<center><iframe src="//www.ysumma.com/comm3/index.php?page=community_item&id=351" width="90%" height="800"></iframe></center>');
     }
 
     $tpl = new RainTPL();
